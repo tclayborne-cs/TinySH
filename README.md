@@ -1,9 +1,10 @@
 # TinySH
-## TinySH is a tiny tiny shell written in Go. 
-## It is still a work in progress and is not ready for daily use.
-## The main goal of this project is to see how small a shell with comfort features can reasonably be.
+### TinySH is a tiny, basic shell written in Go. 
+### It is still a very early work in progress and is not ready for daily use.
+The main goal of this project is to see how small a shell with comfort features can reasonably be.
+I am perfectly aware Go is the wrong tool for small binaries, and welcome the challenge.
 
-## Current binary size: 665 KB
+### Current binary size: 342 KB
 
 ### Dependencies
 Go 1.10 or higher
